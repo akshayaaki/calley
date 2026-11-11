@@ -1,7 +1,8 @@
+# Exploration & References
+references/
+calley_collection.json
+
 # Video & Large scratch files
-references/demo_video.mp4
-references/frames/
-references/screens_zoomed/
 
 # Miscellaneous
 *.class
